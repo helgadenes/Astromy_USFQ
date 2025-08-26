@@ -29,6 +29,6 @@
 
 ### Películas recomendadas: 
 
-Interstelar
-Gravedad 
-Contacto
+- Interstelar
+- Gravedad 
+- Contacto
