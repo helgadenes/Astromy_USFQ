@@ -22,6 +22,7 @@
 - Kaufmann, William J., Discovering the universe /, New York: W.H. Freeman and Company, c2014.
 
 ## Bibliografía Complementaria
+- Roger Freedman, William J. Kaufmann: Universe
 - Barbara Ryden and Bradley M. Peterson: Foundations of Astrophysics
 - Arnab Rai Choudhuri: Astrophysics for Physicists
 
