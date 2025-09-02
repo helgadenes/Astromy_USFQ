@@ -27,6 +27,10 @@
 
 - También son recomendables los artículos de Wikipedia.
 
+## Otro material:
+
+GLEAMOSCOPE, Para ver la Vía Láctea en diferentes longitudes de onda: https://gleamoscope.icrar.org/gleamoscope/trunk/src
+
 ### Películas recomendadas: 
 
 - Interstelar
