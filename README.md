@@ -15,22 +15,15 @@
 12. Las estrellas.
 13. Muerte de las estrellas.
 14. La Vía Láctea y otras galaxias.
-15. Cosmología.
-16. Carrera espacial.
 
 ## Bibliografía Principal
-- Kaufmann, William J., Discovering the universe /, New York: W.H. Freeman and Company, c2014.
+- Roger Freedman, William J. Kaufmann: Universe
 
 ## Bibliografía Complementaria
-- Roger Freedman, William J. Kaufmann: Universe
 - Barbara Ryden and Bradley M. Peterson: Foundations of Astrophysics
 - Arnab Rai Choudhuri: Astrophysics for Physicists
 
 - También son recomendables los artículos de Wikipedia.
-
-## Otro material:
-
-GLEAMOSCOPE, Para ver la Vía Láctea en diferentes longitudes de onda: https://gleamoscope.icrar.org/gleamoscope/trunk/src
 
 ### Películas recomendadas: 
 
